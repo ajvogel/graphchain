@@ -12,6 +12,7 @@ import cloudpickle
 import dask
 import fs
 import fs.base
+import fs.osfs
 import joblib
 from dask.highlevelgraph import HighLevelGraph, Layer
 
